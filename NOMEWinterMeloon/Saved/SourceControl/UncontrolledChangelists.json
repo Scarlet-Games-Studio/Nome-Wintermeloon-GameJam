@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/WB_Inventory.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/AC_InventoryComponent.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/BP_MasterItem.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/GS/8JJCI05XMZXCUD7EASTZ7D.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/NewWidgetBlueprint.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/WB_InventorySlot.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/ExampleTexture.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/BPI_InventoryInterface.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/M_Transparent.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/ExampleTexture_Array.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/AC_Inventory.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/Widgets/WB_Inventory.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/ItemObject.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/MasterItem.uasset",
+				"C:/Users/gamer/Documents/GitHub/Nome-Wintermeloon-GameJam/NOMEWinterMeloon/Content/J64d/InventoryComponent/BPI_PickUp.uasset"
+			]
+		}
+	]
+}
